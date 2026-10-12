@@ -1,6 +1,6 @@
 import json
 
-FILE_PATH = r"./sample_logs/events.json"
+FILE_PATH = r"../../sample_logs/events.json"
 
 class LogParser:
     
