@@ -1,0 +1,12 @@
+[
+  {
+    "EventID": 1,
+    "Image": "C:\\Windows\\System32\\powershell.exe",
+    "CommandLine": "powershell.exe -EncodedCommand example"
+  },
+  {
+    "EventID": 1,
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  }
+]
