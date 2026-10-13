@@ -8,5 +8,10 @@
     "EventID": 1,
     "Image": "C:\\Windows\\explorer.exe",
     "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "powershell.exe -ExecutionPolicy Bypass -EncodedCommand Q29ubmVjdCB0byAxMjcuMC4wLjE="
   }
 ]

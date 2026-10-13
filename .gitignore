@@ -3,3 +3,5 @@
 __pycache__/
 *.db
 reports/
+.vscode/
+sysmon_logs.json
